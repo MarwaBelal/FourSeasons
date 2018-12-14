@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #c2c2a3;
+    background-image: url("grey.png");
+    font-family: 'Niramit', sans-serif;
+}
+.container {
+    text-align: center;
+    color: #003d66;
+}
+.container .img-responsive
+{
+    margin-top: 150px;
+    height: 400px;
+    width: 400px;
+    border-radius: 3px;
+}
+.container .text{
+    font-size: 20px;
+}
+.buttons {
+    margin-top: 20px;
+}
+.buttons button{
+
+    border: 3px solid #003d66 ;
+    background-color: #003d66;
+    color: white;
+    font-size: 20px;
+    border-radius: 3px;
+    margin-right: 5px;
+    padding: 5px;
+    height: 50px;
+}
